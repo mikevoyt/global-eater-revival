@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "0.1.0",
+  "legacyEntries": 1815,
+  "expansionEntries": 180,
+  "totalEntries": 1995,
+  "cuisineCount": 20,
+  "referenceSectionCount": 2,
+  "checks": "passed",
+  "checksScope": "Catalog structure, identity, Unicode, representative search normalization; not Flutter compilation or culinary review.",
+  "legacyDuplicateNameGroups": [
+    {
+      "cuisineId": "chinese",
+      "normalizedName": "hung dou sah",
+      "ids": [
+        "legacy-0059",
+        "legacy-0060"
+      ]
+    },
+    {
+      "cuisineId": "chinese",
+      "normalizedName": "saang chow pai gwut",
+      "ids": [
+        "legacy-0105",
+        "legacy-0106"
+      ]
+    },
+    {
+      "cuisineId": "french",
+      "normalizedName": "filet mignon",
+      "ids": [
+        "legacy-0383",
+        "legacy-0384"
+      ]
+    },
+    {
+      "cuisineId": "french",
+      "normalizedName": "roux",
+      "ids": [
+        "legacy-0532",
+        "legacy-0533"
+      ]
+    },
+    {
+      "cuisineId": "french",
+      "normalizedName": "tapenade",
+      "ids": [
+        "legacy-0560",
+        "legacy-0561"
+      ]
+    },
+    {
+      "cuisineId": "italian",
+      "normalizedName": "gnocchi",
+      "ids": [
+        "legacy-0788",
+        "legacy-0789"
+      ]
+    },
+    {
+      "cuisineId": "italian",
+      "normalizedName": "vecchio",
+      "ids": [
+        "legacy-0981",
+        "legacy-0982"
+      ]
+    },
+    {
+      "cuisineId": "italian",
+      "normalizedName": "zabaglione",
+      "ids": [
+        "legacy-0990",
+        "legacy-0991"
+      ]
+    }
+  ],
+  "counts": {
+    "brazilian": 15,
+    "chinese": 140,
+    "ethiopian": 15,
+    "filipino": 15,
+    "french": 451,
+    "german": 15,
+    "global-pantry": 33,
+    "greek": 15,
+    "indian": 40,
+    "indonesian": 15,
+    "italian": 365,
+    "japanese": 125,
+    "korean": 15,
+    "lebanese": 15,
+    "meat-cuts": 16,
+    "mexican": 88,
+    "moroccan": 15,
+    "peruvian": 15,
+    "spanish": 518,
+    "thai": 39,
+    "turkish": 15,
+    "vietnamese": 15
+  }
+}

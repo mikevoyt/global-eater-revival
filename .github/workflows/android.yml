@@ -1,0 +1,36 @@
+name: Android development APK
+on:
+  workflow_dispatch:
+  push:
+    branches: ['mikev/main']
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Install tested Flutter SDK
+        run: |
+          git clone --depth 1 --branch 3.44.8 https://github.com/flutter/flutter.git "$RUNNER_TEMP/flutter"
+          echo "$RUNNER_TEMP/flutter/bin" >> "$GITHUB_PATH"
+      - name: Check recovery and build tools
+        run: python3 -m unittest discover -s tool -p 'test_*.py' -v
+      - name: Validate, test, and build Android
+        run: bash scripts/android.sh --build-only
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: global-eater-android-development
+          path: |
+            dist/*-android-arm64-debug.apk
+            dist/SHA256SUMS.txt
+            dist/flutter-version.txt
+            dist/android-build.log
+          if-no-files-found: warn

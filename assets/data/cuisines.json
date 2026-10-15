@@ -1,0 +1,200 @@
+[
+  {
+    "id": "brazilian",
+    "name": "Brazilian",
+    "region": "Americas",
+    "badge": "BR",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "chinese",
+    "name": "Chinese",
+    "region": "Asia",
+    "badge": "CN",
+    "isReference": false,
+    "count": 140,
+    "isNew": false
+  },
+  {
+    "id": "ethiopian",
+    "name": "Ethiopian",
+    "region": "Africa",
+    "badge": "ET",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "filipino",
+    "name": "Filipino",
+    "region": "Asia",
+    "badge": "PH",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "french",
+    "name": "French",
+    "region": "Europe",
+    "badge": "FR",
+    "isReference": false,
+    "count": 451,
+    "isNew": false
+  },
+  {
+    "id": "german",
+    "name": "German",
+    "region": "Europe",
+    "badge": "DE",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "greek",
+    "name": "Greek",
+    "region": "Europe",
+    "badge": "GR",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "indian",
+    "name": "Indian",
+    "region": "Asia",
+    "badge": "IN",
+    "isReference": false,
+    "count": 40,
+    "isNew": false
+  },
+  {
+    "id": "indonesian",
+    "name": "Indonesian",
+    "region": "Asia",
+    "badge": "ID",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "italian",
+    "name": "Italian",
+    "region": "Europe",
+    "badge": "IT",
+    "isReference": false,
+    "count": 365,
+    "isNew": false
+  },
+  {
+    "id": "japanese",
+    "name": "Japanese",
+    "region": "Asia",
+    "badge": "JP",
+    "isReference": false,
+    "count": 125,
+    "isNew": false
+  },
+  {
+    "id": "korean",
+    "name": "Korean",
+    "region": "Asia",
+    "badge": "KR",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "lebanese",
+    "name": "Lebanese",
+    "region": "West Asia",
+    "badge": "LB",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "mexican",
+    "name": "Mexican",
+    "region": "Americas",
+    "badge": "MX",
+    "isReference": false,
+    "count": 88,
+    "isNew": false
+  },
+  {
+    "id": "moroccan",
+    "name": "Moroccan",
+    "region": "Africa",
+    "badge": "MA",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "peruvian",
+    "name": "Peruvian",
+    "region": "Americas",
+    "badge": "PE",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish",
+    "region": "Europe",
+    "badge": "ES",
+    "isReference": false,
+    "count": 518,
+    "isNew": false
+  },
+  {
+    "id": "thai",
+    "name": "Thai",
+    "region": "Asia",
+    "badge": "TH",
+    "isReference": false,
+    "count": 39,
+    "isNew": false
+  },
+  {
+    "id": "turkish",
+    "name": "Turkish",
+    "region": "West Asia",
+    "badge": "TR",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "vietnamese",
+    "name": "Vietnamese",
+    "region": "Asia",
+    "badge": "VN",
+    "isReference": false,
+    "count": 15,
+    "isNew": true
+  },
+  {
+    "id": "global-pantry",
+    "name": "Global pantry",
+    "region": "Reference",
+    "badge": "+",
+    "isReference": true,
+    "count": 33,
+    "isNew": false
+  },
+  {
+    "id": "meat-cuts",
+    "name": "Meat cuts",
+    "region": "Reference",
+    "badge": "+",
+    "isReference": true,
+    "count": 16,
+    "isNew": false
+  }
+]

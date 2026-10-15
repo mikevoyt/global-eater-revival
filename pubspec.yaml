@@ -1,0 +1,30 @@
+name: global_eater
+description: The Global Eater food dictionary, revived for Android and iOS.
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+  flutter: '>=3.32.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  diacritic: ^0.1.6
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/foods.json
+    - assets/data/cuisines.json
+    - assets/data/metadata.json
+    - assets/brand/original_icon.png
+    - assets/brand/original_splash.png

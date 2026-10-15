@@ -1,0 +1,9 @@
+test_refuses_another_flutter_project (__main__.LauncherSafetyTests.test_refuses_another_flutter_project) ... ok
+test_refuses_symlink_destination (__main__.LauncherSafetyTests.test_refuses_symlink_destination) ... ok
+test_refuses_unrelated_nonempty_folder (__main__.LauncherSafetyTests.test_refuses_unrelated_nonempty_folder) ... ok
+test_rejects_linux_without_creating_project (__main__.LauncherSafetyTests.test_rejects_linux_without_creating_project) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.024s
+
+OK

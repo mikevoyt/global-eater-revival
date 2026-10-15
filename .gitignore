@@ -1,0 +1,39 @@
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+dist/
+coverage/
+.idea/
+*.iml
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+**/xcuserdata/
+__pycache__/
+*.pyc
+# Do NOT ignore pubspec.lock: commit it after the first successful resolution.
+
+# Machine-local toolchain paths written by the Mac setup launcher
+scripts/mac-env.sh
+
+# Credentials, local configuration, and private verification evidence
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.pem
+*.mobileprovision
+*.apk
+*.ipa
+*.aab
+source-audit.txt

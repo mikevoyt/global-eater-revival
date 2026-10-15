@@ -1,0 +1,16 @@
+test_explicit_serial_selects_only_the_named_device (test_tools.InstallerTests.test_explicit_serial_selects_only_the_named_device) ... ok
+test_launch_error_with_zero_exit_does_not_report_success (test_tools.InstallerTests.test_launch_error_with_zero_exit_does_not_report_success) ... ok
+test_multiple_devices_require_explicit_selection (test_tools.InstallerTests.test_multiple_devices_require_explicit_selection) ... ok
+test_signing_conflict_never_uninstalls (test_tools.InstallerTests.test_signing_conflict_never_uninstalls) ... ok
+test_single_authorized_device_installs_and_launches (test_tools.InstallerTests.test_single_authorized_device_installs_and_launches) ... ok
+test_startup_crash_does_not_report_success (test_tools.InstallerTests.test_startup_crash_does_not_report_success) ... ok
+test_unauthorized_device_stops_without_install (test_tools.InstallerTests.test_unauthorized_device_stops_without_install) ... ok
+test_wrong_abi_stops_before_install (test_tools.InstallerTests.test_wrong_abi_stops_before_install) ... ok
+test_branding_is_idempotent_and_preserves_manifest_activity (test_tools.RecoveryAndCatalogTests.test_branding_is_idempotent_and_preserves_manifest_activity) ... ok
+test_full_binary_recovery_matches_archived_rows (test_tools.RecoveryAndCatalogTests.test_full_binary_recovery_matches_archived_rows) ... ok
+test_generated_catalog_is_reproducible (test_tools.RecoveryAndCatalogTests.test_generated_catalog_is_reproducible) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 30.675s
+
+OK

@@ -1,0 +1,193 @@
+# name|aliases (semicolon separated)|short description|category
+[Vietnamese]
+Phở|pho;phở bò;phở gà|Rice noodles in aromatic broth, usually with beef or chicken.|Noodles
+Bánh mì|banh mi|A baguette sandwich with savory fillings, pickles, and herbs.|Bread
+Bún chả|bun cha|Grilled pork with rice vermicelli, herbs, and dipping sauce.|Noodles
+Bún bò Huế|bun bo hue|A spicy, lemongrass-scented noodle soup with beef and often pork.|Noodles
+Bánh xèo|banh xeo|A crisp rice-flour pancake, often filled with pork and shrimp.|Main Dish
+Gỏi cuốn|goi cuon;summer rolls|Fresh rice-paper rolls with herbs, noodles, and varied fillings.|Appetizer
+Chả giò|cha gio;nem ran|Fried spring rolls with meat, vegetables, and other fillings.|Appetizer
+Cơm tấm|com tam|Broken rice served with toppings such as grilled pork.|Rice
+Cao lầu|cao lau|Hoi An noodles with pork, greens, and crunchy toppings.|Noodles
+Mì Quảng|mi quang|Turmeric-tinted noodles with a little broth and varied toppings.|Noodles
+Bánh cuốn|banh cuon|Thin steamed rice sheets, often wrapped around pork and mushrooms.|Main Dish
+Bún riêu|bun rieu|A tangy tomato noodle soup, commonly made with crab.|Noodles
+Xôi|xoi|Sticky rice served with sweet or savory toppings.|Rice
+Chè|che|A broad family of sweet soups, puddings, and drinks.|Dessert
+Cà phê sữa đá|ca phe sua da|Iced coffee sweetened with condensed milk.|Drink
+[Korean]
+Bibimbap|비빔밥|Rice mixed with vegetables, seasonings, and often egg or meat.|Rice
+Bulgogi|불고기|Thinly sliced, marinated meat, commonly beef, grilled or stir-fried.|Main Dish
+Kimchi|김치|Seasoned fermented vegetables, especially napa cabbage or radish.|Side Dish
+Japchae|잡채|Stir-fried sweet-potato-starch noodles with vegetables and sometimes meat.|Noodles
+Tteokbokki|떡볶이|Chewy rice cakes, commonly simmered in spicy red sauce.|Snack
+Kimchi jjigae|김치찌개|A stew of kimchi, often with pork, tofu, or tuna.|Soup
+Sundubu jjigae|순두부찌개|Soft tofu stew, often spicy, with seafood or meat.|Soup
+Samgyeopsal|삼겹살|Pork belly, often grilled at the table and wrapped in lettuce.|Main Dish
+Galbi|갈비;kalbi|Ribs, commonly marinated beef short ribs cooked on a grill.|Main Dish
+Naengmyeon|냉면|Cold noodles served in chilled broth or with spicy sauce.|Noodles
+Mandu|만두|Dumplings with varied fillings, steamed, boiled, or pan-fried.|Dumpling
+Pajeon|파전|A savory scallion pancake, sometimes made with seafood.|Appetizer
+Gimbap|김밥;kimbap|Seasoned rice and assorted fillings rolled in seaweed.|Rice
+Jjajangmyeon|짜장면;jajangmyeon|Noodles topped with a dark fermented-bean sauce and diced ingredients.|Noodles
+Hotteok|호떡|Filled griddle cakes, commonly containing brown sugar, cinnamon, and nuts.|Dessert
+[Greek]
+Moussaka||A baked dish layering eggplant, minced meat, and béchamel sauce.|Main Dish
+Souvlaki||Small pieces of meat grilled on skewers.|Main Dish
+Gyros|gyro|Rotisserie meat, often served in pita with vegetables and sauce.|Main Dish
+Spanakopita||A spinach pie, commonly with feta, wrapped in filo pastry.|Pastry
+Tzatziki||A yogurt sauce with cucumber, garlic, and herbs.|Condiment
+Dolmades|dolmadakia|Stuffed vine leaves, commonly containing rice and sometimes meat.|Appetizer
+Horiatiki|Greek salad|A village-style salad of tomatoes, cucumber, onion, olives, and feta.|Salad
+Pastitsio||A baked pasta dish layered with meat sauce and béchamel.|Main Dish
+Saganaki||A small-pan preparation; on many menus, pan-fried cheese.|Appetizer
+Fava||A smooth yellow split-pea purée, often dressed with olive oil.|Side Dish
+Keftedes|keftedakia|Seasoned meatballs, commonly fried and served with herbs.|Main Dish
+Avgolemono||An egg-and-lemon mixture used to thicken soups and sauces.|General Term
+Loukoumades||Small fried dough balls, usually drizzled with syrup or honey.|Dessert
+Galaktoboureko||Filo pastry filled with semolina custard and soaked in syrup.|Dessert
+Baklava||Layered filo pastry with chopped nuts and sweet syrup.|Dessert
+[Turkish]
+Döner|doner|Meat cooked on a vertical rotisserie and sliced to serve.|Main Dish
+İskender kebap|iskender kebab|Sliced döner over bread, with tomato sauce, butter, and yogurt.|Main Dish
+Adana kebap|adana kebab|Spiced minced meat shaped around a skewer and grilled.|Main Dish
+Lahmacun||Thin flatbread topped with minced meat, vegetables, and seasonings.|Bread
+Pide||Boat-shaped bread with toppings such as cheese or minced meat.|Bread
+Mantı|manti|Small filled dumplings, commonly served with yogurt and seasoned butter.|Dumpling
+Menemen||Eggs cooked with tomatoes and peppers.|Main Dish
+İmam bayıldı|imam bayildi|Eggplant stuffed with onions and tomatoes, cooked with olive oil.|Main Dish
+Dolma||A family of stuffed vegetables and leaves, with varied fillings.|General Term
+Cacık|cacik|A yogurt-and-cucumber preparation with garlic and herbs.|Side Dish
+Mercimek çorbası|mercimek corbasi|A lentil soup, often blended until smooth.|Soup
+Börek|borek|Layered or rolled pastry with cheese, greens, or meat fillings.|Pastry
+Simit||A sesame-coated bread ring.|Bread
+Künefe|kunefe|Shredded pastry layered with cheese and sweetened with syrup.|Dessert
+Ayran||A chilled savory drink of yogurt, water, and salt.|Drink
+[Lebanese]
+Hummus|houmous|A chickpea purée with tahini, lemon, and garlic.|Appetizer
+Baba ghanoush|baba ganoush|A roasted eggplant preparation; ingredients and naming vary regionally.|Appetizer
+Tabbouleh|tabouli|A parsley-forward salad with tomatoes, bulgur, lemon, and olive oil.|Salad
+Fattoush||A chopped vegetable salad with crisp pieces of bread.|Salad
+Kibbeh|kibbe|A family of bulgur-and-meat preparations, with baked and fried versions.|Main Dish
+Kibbeh nayyeh|kibbe nayeh|Finely minced raw meat mixed with bulgur and seasonings.|Main Dish
+Manakish|manoushe;manaeesh|Flatbread with toppings such as za'atar, cheese, or minced meat.|Bread
+Shawarma||Spiced rotisserie meat, commonly served in bread with accompaniments.|Main Dish
+Shish taouk|shish tawook|Marinated chicken pieces grilled on skewers.|Main Dish
+Mujaddara|mjadra|Lentils cooked with rice or bulgur and topped with onions.|Main Dish
+Warak enab|waraq enab|Stuffed vine leaves, with rice-based or meat-and-rice fillings.|Appetizer
+Labneh|labne|Thick strained yogurt, often served with olive oil.|Dairy
+Falafel|felafel|Fried patties of ground legumes, herbs, and spices.|Appetizer
+Fatteh||Layered toasted bread, chickpeas, and yogurt, sometimes with meat.|Main Dish
+Maamoul|ma'amoul|Small filled cookies, commonly containing dates, walnuts, or pistachios.|Dessert
+[Ethiopian]
+Injera||A tangy, spongy flatbread, traditionally made with teff.|Bread
+Doro wat|doro wot|A richly spiced chicken stew, often served with boiled eggs.|Main Dish
+Misir wat|misir wot|Lentils simmered with onions and a berbere-based spice mixture.|Main Dish
+Shiro|shiro wat|A smooth stew made from ground legumes and seasonings.|Main Dish
+Tibs||Sautéed meat, commonly cooked with onions and peppers.|Main Dish
+Kitfo||Seasoned minced beef, traditionally raw; cooked versions are also served.|Main Dish
+Gomen||Cooked leafy greens, commonly collards, with aromatic seasonings.|Side Dish
+Kik alicha||A mild split-pea stew, often flavored with turmeric.|Main Dish
+Atkilt wat|atakilt wat|A cooked vegetable dish commonly containing cabbage, potatoes, and carrots.|Side Dish
+Berbere||A chili-based spice blend used in many stews.|Spice
+Niter kibbeh|niter qibe|Clarified butter infused with herbs and spices.|Ingredient
+Ayib||A fresh, crumbly cheese, often served alongside spicy dishes.|Dairy
+Firfir|fir fir|Pieces of injera mixed with a seasoned sauce or stew.|Main Dish
+Beyaynetu|beyainatu|A mixed platter of vegetable and legume dishes on injera.|Main Dish
+Sambusa||A filled triangular pastry, often containing lentils or meat.|Snack
+[Moroccan]
+Tagine|tajine|A slow-cooked dish named for its conical-lidded cooking vessel.|Main Dish
+Couscous||Steamed semolina granules, often served with vegetables, broth, and meat.|Main Dish
+Harira||A tomato-based soup with legumes, often including meat and noodles.|Soup
+Pastilla|bastilla;b'stilla|A filled pastry, often combining poultry, almonds, and sweet spices.|Pastry
+Rfissa||Chicken and lentils served over torn bread, with aromatic spices.|Main Dish
+Méchoui|mechoui|Slow-roasted lamb, commonly seasoned simply to emphasize the meat.|Main Dish
+Zaalouk||A cooked eggplant-and-tomato salad with garlic and spices.|Salad
+Taktouka||A cooked salad of peppers and tomatoes.|Salad
+Msemen||A layered, pan-cooked flatbread.|Bread
+Baghrir|beghrir|Spongy semolina pancakes with many small holes.|Bread
+Bissara||A thick purée or soup of dried legumes, often fava beans.|Soup
+Kefta||Seasoned minced meat shaped into balls or kebabs.|Main Dish
+Ras el hanout||A spice blend whose ingredients vary by maker.|Spice
+Chermoula||A herb, garlic, and spice marinade, often used with fish.|Condiment
+Chebakia||A shaped fried pastry coated with honey and sesame seeds.|Dessert
+[Filipino]
+Adobo||Meat or other ingredients simmered with vinegar, garlic, and seasonings.|Main Dish
+Sinigang||A sour soup with meat or seafood and vegetables.|Soup
+Lechon||Roast pig with crisp skin.|Main Dish
+Kare-kare||A peanut-based stew, often with oxtail, tripe, and vegetables.|Main Dish
+Sisig||A chopped, seasoned dish commonly made from pork.|Main Dish
+Pancit|pansit|A broad family of noodle dishes with varied ingredients.|Noodles
+Lumpia||Filled rolls, served fresh or fried depending on the style.|Appetizer
+Chicken inasal|inasal|Marinated grilled chicken, commonly brushed with annatto-tinted oil.|Main Dish
+Tinola||A ginger-scented soup, usually with chicken, green papaya, and leaves.|Soup
+Bicol Express||Pork cooked with coconut milk, chilies, and shrimp paste.|Main Dish
+Dinuguan||A savory stew made with pork blood and meat.|Main Dish
+Tapsilog||A meal of cured beef, garlic fried rice, and egg.|Main Dish
+Halo-halo||Shaved ice with sweet mix-ins, milk, and assorted toppings.|Dessert
+Ube|purple yam|A purple yam used in many sweets and pastries.|Ingredient
+Bibingka||A rice cake, commonly baked in banana-leaf-lined molds.|Dessert
+[Indonesian]
+Nasi goreng||Fried rice with seasonings and varied additions.|Rice
+Mie goreng|mi goreng|Fried noodles with vegetables, seasonings, and optional meat.|Noodles
+Rendang||Meat slowly cooked with coconut milk and an aromatic spice paste.|Main Dish
+Satay|sate|Skewered grilled pieces, often meat, served with regional sauces.|Main Dish
+Gado-gado||Vegetables and accompaniments dressed with a peanut-based sauce.|Salad
+Soto ayam||A seasoned chicken soup, often with noodles or rice.|Soup
+Bakso||Meatballs, commonly served in broth with noodles.|Soup
+Nasi uduk||Rice cooked with coconut milk and aromatic seasonings.|Rice
+Nasi padang||Rice served with a selection of Minangkabau-style dishes.|Main Dish
+Tempeh|tempe|A firm fermented soybean cake used in many dishes.|Ingredient
+Sambal||A chili-based condiment with many regional variations.|Condiment
+Ayam goreng||Fried chicken, often seasoned before frying.|Main Dish
+Ikan bakar||Grilled fish with seasonings or sauces.|Main Dish
+Rawon||A dark beef soup flavored with keluak nuts.|Soup
+Klepon||Sweet rice-flour balls with palm-sugar filling and grated coconut.|Dessert
+[German]
+Bratwurst||A sausage commonly cooked by grilling or pan-frying.|Main Dish
+Currywurst||Sausage served with a curry-seasoned tomato sauce.|Main Dish
+Sauerbraten||Marinated pot roast with a tangy sauce.|Main Dish
+Schweinshaxe||Roasted pork knuckle, typically with crisp skin.|Main Dish
+Schnitzel||A thin cutlet, often breaded and fried.|Main Dish
+Spätzle|spaetzle|Small soft egg noodles, often served as a side.|Noodles
+Käsespätzle|kaesespaetzle|Spätzle mixed with cheese and commonly topped with onions.|Main Dish
+Rouladen||Meat rolls, commonly beef wrapped around a savory filling.|Main Dish
+Kartoffelsalat||Potato salad; dressings vary substantially by region.|Salad
+Sauerkraut||Fermented shredded cabbage.|Side Dish
+Brezel|pretzel|A twisted bread, commonly with a dark, glossy crust.|Bread
+Knödel|knoedel|Dumplings made from bread, potatoes, or other ingredients.|Dumpling
+Maultaschen||Large filled pasta pockets, often served in broth or pan-fried.|Dumpling
+Schwarzwälder Kirschtorte|Black Forest cake|Chocolate cake layered with cherries, cream, and typically kirsch.|Dessert
+Rote Grütze|rote gruetze|A red-fruit dessert thickened into a compote or pudding.|Dessert
+[Peruvian]
+Ceviche|cebiche|Fish or seafood marinated in citrus with seasonings.|Main Dish
+Lomo saltado||Stir-fried beef with onions and tomatoes, commonly with fries and rice.|Main Dish
+Ají de gallina|aji de gallina|Shredded chicken in a creamy yellow-chili sauce.|Main Dish
+Anticuchos||Marinated skewers, commonly made from beef heart.|Main Dish
+Causa||Seasoned mashed potato layered with fillings such as chicken or tuna.|Appetizer
+Papa a la huancaína|papa a la huancaina|Potatoes with a creamy cheese-and-yellow-chili sauce.|Appetizer
+Rocoto relleno||A rocoto pepper stuffed with a savory filling and baked.|Main Dish
+Tiradito||Thin slices of raw fish dressed with a citrus-chili sauce.|Appetizer
+Pollo a la brasa||Seasoned rotisserie chicken.|Main Dish
+Arroz chaufa||Peruvian-Chinese-style fried rice with varied additions.|Rice
+Tacu tacu||Rice and beans combined and pan-fried.|Main Dish
+Seco de res||Beef stew commonly flavored with cilantro.|Main Dish
+Chupe de camarones||A rich shrimp soup, often with potatoes, corn, and dairy.|Soup
+Chicha morada||A sweet drink made from purple corn and spices.|Drink
+Picarones||Fried squash-and-sweet-potato dough rings served with syrup.|Dessert
+[Brazilian]
+Feijoada||A black-bean stew with pork, commonly served with rice.|Main Dish
+Pão de queijo|pao de queijo|Small cheese breads made with cassava starch.|Bread
+Moqueca||A fish or seafood stew with regional variations.|Main Dish
+Acarajé|acaraje|Fried black-eyed-pea fritters, often split and filled.|Snack
+Coxinha||A fried croquette commonly filled with shredded chicken.|Snack
+Pastel||A crisp fried pastry with savory or sweet fillings.|Pastry
+Farofa||Toasted cassava flour, often mixed with flavorful additions.|Side Dish
+Picanha||A beef cut with a fat cap, popular for grilling.|Meat
+Churrasco||A barbecue style featuring grilled meats.|General Term
+Escondidinho||A baked dish of savory filling beneath mashed roots or potatoes.|Main Dish
+Bobó de camarão|bobo de camarao|Shrimp in a creamy cassava purée, commonly with coconut milk.|Main Dish
+Açaí na tigela|acai bowl|A bowl of açaí pulp served with assorted toppings.|Dessert
+Brigadeiro||A chocolate sweet made with condensed milk and butter.|Dessert
+Quindim||A glossy baked sweet made with egg yolks, sugar, and coconut.|Dessert
+Tapioca||A cassava-starch flatbread folded around savory or sweet fillings.|Bread
